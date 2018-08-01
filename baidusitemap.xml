@@ -3,6 +3,22 @@
 
 
     
+    
+  <url>
+    <loc>http://yoursite.com/2018/08/01/test-my-site/</loc>
+    <lastmod>2018-08-01T12:03:56.373Z</lastmod>
+    <data>
+        <display>
+        <title>test_my_site</title>
+        <pubTime>2018-08-01T12:03:56.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
   <url>
     <loc>http://yoursite.com/2018/08/01/hello-world/</loc>
     <lastmod>2018-08-01T11:50:43.338Z</lastmod>
